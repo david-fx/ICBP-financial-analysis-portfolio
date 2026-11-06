@@ -16,9 +16,9 @@ Based on the uploaded files, this repository includes:
 ## 📊 Key Insights & Takeaways
 *(Silakan ganti teks di bawah ini dengan hasil temuan/insight aktual dari analisis Anda)*
 
-*   **Revenue & Profitability:** ICBP demonstrated [mention revenue growth %] YoY, driven by strong performance in the [mention specific segment, e.g., Mi Instan / Dairy]. Operating margins remained resilient at [mention margin %].
-*   **Variance Analysis:** The most significant variance was observed in [mention a specific line item, e.g., Cost of Goods Sold / Marketing Expenses], which increased/decreased by [X]%.
-*   **Financial Health:** The company maintains a solid balance sheet with a healthy liquidity ratio of [mention ratio] and manageable debt levels.
+*   **Revenue & Profitability:** ICBP demonstrated [mention revenue growth %] YoY, driven by strong performance in the  Mi Instan. Operating margins remained resilient.
+*   **Variance Analysis:** The most significant variance was observed in Cost of Goods Sold and Marketing Expenses.
+*   **Financial Health:** The company maintains a solid balance sheet with a healthy liquidity ratio of and manageable debt levels.
 
 ---
 *This portfolio was created to demonstrate financial modeling, data analysis, and presentation skills.*
